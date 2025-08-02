@@ -119,7 +119,7 @@ const App = () => {
     const [userData, setUserData] = useState(null);
 
     useEffect(() => {
-      fetch("http://localhost:5000/api/dashboard")
+      fetch("https://internrepo.onrender.com/api/dashboard")
         .then((res) => res.json())
         .then((data) => setUserData(data))
         .catch((err) => console.error("Error fetching dashboard data", err));
