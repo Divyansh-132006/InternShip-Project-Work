@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Divyansh Upadhyay",
+    "referralCode": "divyansh2025",
+    "donationsRaised": 8725,
+    "rewards": ["T-shirt unlocked", "Badge earned", "Certificate pending"]
+  },
+  {
+    "name": "Aarav Sharma",
+    "referralCode": "aarav2025",
+    "donationsRaised": 15650,
+    "rewards": ["Hoodie unlocked", "Top Donor Badge"]
+  },
+  {
+    "name": "Meera Patel",
+    "referralCode": "meera2025",
+    "donationsRaised": 4320,
+    "rewards": ["Certificate pending"]
+  },
+  {
+    "name": "Riya Verma",
+    "referralCode": "riya2025",
+    "donationsRaised": 10000,
+    "rewards": ["T-shirt unlocked", "Certificate", "Social Media Shoutout"]
+  },
+  {
+    "name": "Aditya Singh",
+    "referralCode": "aditya2025",
+    "donationsRaised": 19800,
+    "rewards": ["Hoodie unlocked", "Gold Badge", "Leaderboard Spot"]
+  }
+]
