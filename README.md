@@ -2,9 +2,7 @@
 
 A full-stack intern dashboard application to manage and showcase internship-related tasks, user profiles, and progress tracking. Built using **Node.js** for the backend and **React** for the frontend.
 
-## 🌐 Live Demo
 
-> [(https://neon-flan-6c4716.netlify.app/)]
 
 ## 🛠 Tech Stack
 
